@@ -1,0 +1,1 @@
+recreated this project using only html and css and this is a netflix clone.
